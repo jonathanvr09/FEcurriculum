@@ -1,0 +1,38 @@
+header {
+    background-color: #E5E5E5;
+}
+
+h1 {
+    background-color:#C4C4C4;
+    color: #005677;
+    font-family: Times;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+body { 
+    background-size: cover;
+    background-color: #E5E5E5;
+}
+
+h2, h3, h4 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: Times;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.fondo-diferente {
+    background-color: #005677;
+    ;
+    color: #FFFFFF;
+    ;
+}
+.edit-pic {
+    width: 100px;
+    left: 670px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto
+}
